@@ -1,3 +1,5 @@
+```diff
+
 1. Install Wordpress
 2. Create database
 3. Create users(admin, editors &clients) with different roles(can use Facebook & Google authentication)
@@ -8,3 +10,5 @@
 8. Add cupons (WooCommerce plugin)
 9. Multilangues
 10. RGPD respected
+
+```
