@@ -1,14 +1,14 @@
 # Read a Book
 1. Install Wordpress
 2. Create database
-3. Create users(admin, editors &clients) with different roles(can use Facebook & Google authentication)
+3. Create users(admin, editors & clients) with different roles(can use [Facebook](https://developers.facebook.com/) & [Google](https://developers.google.com/) authentication)
 4. Search, download & activate [Woodmart theme](https://themeforest.net/item/woodmart-woocommerce-wordpress-theme/20264492) (necessary plugins included) 
 5. Download & activate plugins
 6. Create your own store
-7. Create product categories and assign items(at least 20products) to them (title, image, price, sale)
-8. Add cupons (WooCommerce plugin)
-9. Multilangues
-10. RGPD respected
+7. Create product categories and assign items to each category (at least 20 products)
+8. Add coupons ([WooCommerce plugin](https://woocommerce.com/products/smart-coupons/))
+9. Multilangues ([GTranslate plugin](https://wordpress.org/plugins/gtranslate/))
+10. RGPD respected ([Cookie Notice & Compliance for GDPR plugin](https://wordpress.org/plugins/cookie-notice/))
 
 ## Plugins
 | Name          | Description   | Version   |
