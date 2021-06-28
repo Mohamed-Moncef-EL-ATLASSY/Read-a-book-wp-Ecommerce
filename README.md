@@ -7,7 +7,7 @@
 6. Create your own store
 7. Create product categories and assign items to each category (at least 20 products)
 8. Add coupons ([WooCommerce plugin](https://woocommerce.com/products/smart-coupons/))
-9. Multilangues ([GTranslate plugin](https://wordpress.org/plugins/gtranslate/))
+9. Multilanguages ([GTranslate plugin](https://wordpress.org/plugins/gtranslate/))
 10. RGPD respected ([Cookie Notice & Compliance for GDPR plugin](https://wordpress.org/plugins/cookie-notice/))
 
 ## Plugins
