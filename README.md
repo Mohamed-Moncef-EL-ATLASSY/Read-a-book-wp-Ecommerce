@@ -17,3 +17,5 @@
 | [WPBakery Page Builder](https://wpbakery.com/) | Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required.      | 6.6.0 |
 | [Slider Revolution](https://www.sliderrevolution.com/) | Premium responsive slider      |6.5.3 |
 | [Woodmart Core](https://kingtalks.net/tag/woodmart-core-plugin-download/) | Woodmart Core needed for Woodmart theme     | 1.0.29|
+| [GTranslate](https://wordpress.org/plugins/gtranslate/) | Makes your website multilingual and available to the world using Google Translate.      | 2.8.64|
+| [Cookie Notice & Compliance for GDPR](https://wordpress.org/plugins/cookie-notice/) | Cookie Notice allows you to you elegantly inform users that your site uses cookies and helps you comply with GDPR, CCPA and other data privacy laws.     |  2.0.4|
